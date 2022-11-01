@@ -1,2 +1,0 @@
-Ensimmäinen muokkaus tiedostoon
-add -p muutos
